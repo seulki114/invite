@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 700;
+  src: local('Spoqa Han Sans Bold'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Bold.woff2') format('woff2'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Bold.woff') format('woff'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 400;
+  src: local('Spoqa Han Sans Regular'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Regular.woff2') format('woff2'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Regular.woff') format('woff'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 300;
+  src: local('Spoqa Han Sans Light'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Light.woff2') format('woff2'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Light.woff') format('woff'),
+  url('https://dic3kzafv8gve.cloudfront.net/fonts/SpoqaHanSans_Light.ttf') format('truetype');
+}
